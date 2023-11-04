@@ -1,4 +1,4 @@
-C# Cryptocurrency Android UI Layout Design
+# Cryptocurrency Android UI Layout Design
 
 ## Overview
 This project focuses on the design of the user interface for a cryptocurrency-related Android application. It includes layouts for a front page, a signup page, and a "Create Your Account" page. Please note that this is a UI layout design without functional components.
