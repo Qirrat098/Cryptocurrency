@@ -11,6 +11,7 @@ This project focuses on the design of the user interface for a cryptocurrency-re
 
 ## Technologies Used
 - **Design Tools**: Android Studio Giraffe
+- **Language**    : Java 
 
 ## How to View the Layouts
 To view the UI layouts, you can follow these steps:
